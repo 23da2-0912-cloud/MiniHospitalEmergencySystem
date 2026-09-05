@@ -48,3 +48,13 @@ The Emergency Queue was tested using enqueue, dequeue, display, and empty-queue 
 The Treatment Stack was tested using push, pop, display, and empty-stack handling.
 
 The Patient Visit Linked List was tested using add, remove, search, and display operations.
+
+## Design Decisions
+
+The Binary Search Tree is used for patient records because Patient ID can be used as a key for searching and sorted display.
+
+The Queue is used for emergency patients because it follows FIFO order.
+
+The Stack is used for completed treatment records because it follows LIFO order.
+
+A Singly Linked List is used for each patient's visit history because visits can be stored sequentially and added or removed as needed.

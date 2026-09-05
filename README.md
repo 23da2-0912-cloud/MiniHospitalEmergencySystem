@@ -58,3 +58,15 @@ The Queue is used for emergency patients because it follows FIFO order.
 The Stack is used for completed treatment records because it follows LIFO order.
 
 A Singly Linked List is used for each patient's visit history because visits can be stored sequentially and added or removed as needed.
+
+## Running the System
+
+Open the project in Eclipse.
+
+Make sure the Java source files are inside the hospital package.
+
+Right-click HospitalManagementSystem.java.
+
+Select Run As and then Java Application.
+
+The program will open in the Eclipse Console and display the hospital management menu.

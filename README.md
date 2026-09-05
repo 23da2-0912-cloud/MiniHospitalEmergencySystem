@@ -36,3 +36,15 @@ Patient records are managed using a Binary Search Tree (BST).
 Each patient is identified by a unique Patient ID. The system supports
 inserting, searching, deleting, and displaying patient records using
 in-order traversal.
+
+## Testing
+
+The system was tested using sample patient records.
+
+The Binary Search Tree was tested using insertion, search, deletion, and in-order traversal.
+
+The Emergency Queue was tested using enqueue, dequeue, display, and empty-queue handling.
+
+The Treatment Stack was tested using push, pop, display, and empty-stack handling.
+
+The Patient Visit Linked List was tested using add, remove, search, and display operations.

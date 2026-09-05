@@ -70,3 +70,11 @@ Right-click HospitalManagementSystem.java.
 Select Run As and then Java Application.
 
 The program will open in the Eclipse Console and display the hospital management menu.
+
+## Final Testing
+
+The completed system was tested in Eclipse using the main menu.
+
+The main data structure operations were successfully demonstrated, including BST traversal and search, emergency queue operations, treatment stack operations, and patient visit history operations.
+
+The project was checked before final submission.

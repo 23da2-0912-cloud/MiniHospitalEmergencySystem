@@ -29,3 +29,10 @@ The project uses package `hospital`. The main class is `HospitalManagementSystem
 Run `HospitalManagementSystem.java` as a Java Application.
 
 The program starts with sample data so the main data structures can be demonstrated immediately.
+
+## Patient Management
+
+Patient records are managed using a Binary Search Tree (BST).
+Each patient is identified by a unique Patient ID. The system supports
+inserting, searching, deleting, and displaying patient records using
+in-order traversal.
